@@ -4,6 +4,7 @@ D3 visualisation of mobile subscription and telephone subscription of 10 country
 Visualisation for Mobile Cellular Subscription v/s Fixed Telephone
 Subscription from 2000 to 2015 using D3.js
 <b>1.Introduction</b>
+
 Visualisation of a dataset is a sensible and highly persuasive way of communication. It helps to
 understand the data in hand in a much better way. Even though how complex the data is; visualisation make
 the interpretation of data much simpler. The key benefit of visualisation is better understandability,
